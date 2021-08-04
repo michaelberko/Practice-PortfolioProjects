@@ -125,8 +125,6 @@ Select *, (RollingPeopleVaccinated/Population)*100
 From #PercentPopulationVaccinated
 
 
-
-
 -- Creating View to store data for later visualizations
 
 Create View PercentPopulationVaccinated 
